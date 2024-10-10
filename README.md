@@ -2,7 +2,6 @@
 
 # Modern Next.js 14 Server-Side App
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 
 ## Table of Contents
 
